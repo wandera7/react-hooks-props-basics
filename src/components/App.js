@@ -2,7 +2,7 @@ import React from "react";
 import BlogPost from "./BlogPost";
 
 function App() {
-  return <BlogPost />;
+  return <BlogPost/>;
 }
 
 export default App;
